@@ -13,5 +13,7 @@ func main(){
 	index = search.BinarySearchEx(arr,10)
 
 	fmt.Printf("Index:%d\n",index)
+
+	search.DemoRevertm()
 }
 
